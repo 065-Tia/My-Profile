@@ -3,7 +3,7 @@ Personal profile and biodata programan platfrom
 <div align="center">
 
 <!-- Ornamen Nusantara Header -->
-<img src="https://raw.githubusercontent.com/andrel3o/readme-templates/main/assets/banner-pattern.png" width="100%" alt="Ornamen Nusantara" />
+
 
 # 🌺 Om Swastiastu / Rahajeng / Sugeng Rawuh! 🌺
 ### *Halo, Saya Nur Hidayah Titiani (Tia)*
